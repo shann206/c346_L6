@@ -135,7 +135,6 @@ const QuizApp = () => {
             >
                 <Text style={{fontSize: 20}}>SUBMIT ANSWERS</Text>
             </TouchableOpacity>
-
         </ScrollView>
     );
 };
